@@ -1,8 +1,7 @@
-# promoE-modulo3-proyecto-equipo3-Andrea-Catalina-Lourdes-AnaLopez
+# GoGreen Bikesharing
 
 ## Integrantes
-Ana Isabel López Navarro, Andrea Cabrera , Lourdes Boj y Catalina Tomas Jaume Miquel
-Estudiantes en Adalab, Bootcamp: Data Analytics, Promoción E (Evelyn)
+Ana Isabel López Navarro, Andrea Cabrera, Lourdes Boj y Catalina Tomas Jaume Miquel.
 
 ## Descripción del proyecto
 GoGreen Bikesharing es una empresa de Whashington D.C. dedicada al alquiler de bicicletas.
