@@ -1,7 +1,7 @@
 # GoGreen Bikesharing
 
 ## Integrantes
-Ana Isabel López Navarro, Andrea Cabrera, Lourdes Boj y Catalina Tomas Jaume Miquel.
+Ana Isabel López Navarro, Andrea Cabrera, Lourdes Boj y Catalina Tomas Jaume.
 
 ## Descripción del proyecto
 GoGreen Bikesharing es una empresa de Whashington D.C. dedicada al alquiler de bicicletas.
